@@ -16,6 +16,8 @@ Realtime chat app with Encryption feature in Python
 
 <code>User Name: Gwen Password: Gwen-Ten</code>
 
+or
+
 **Create Account and Password as you want**
 
 ## Features
